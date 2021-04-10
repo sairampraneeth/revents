@@ -4,7 +4,6 @@ import 'semantic-ui-css/semantic.min.css';
 import './app/layout/styles.css';
 import App from './app/layout/app.jsx';
 import reportWebVitals from './reportWebVitals';
-import { render } from '@testing-library/react';
 
 const rootEL = document.getElementById('root');
 
